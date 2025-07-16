@@ -65,11 +65,23 @@ Smart Med Tutor uses intelligent question understanding combined with a medical 
 ### 📋 Sample Questions
 ![Sample Question](assets/samplequestion.png)
 
-### 🧠 Clinical Case-Based Questions
+### 🧠 Sample 1
+![Sample 1](assets/sample1.png)
+
+### 🧠 Sample 1.1
+![Sample 1.1](assets/sample1.1.png)
+
+### 💊 Clinical Case-Based Question
 ![Clinical Based Question](assets/clinicalbasequestion.png)
+
+### 💊 Clinical Case-Based Question (Alt)
+![Clinical Based Question 1](assets/clinicalbasedquestion1.png)
 
 ### 🧠 Scenario-Based Reasoning
 ![Scenario Based Question](assets/scenariobasedquestion.png)
+
+### 🧠 Scenario-Based Reasoning (Alt)
+![Scenario Based Question 1](assets/scenariobasedquestion1.png)
 
 ---
 
