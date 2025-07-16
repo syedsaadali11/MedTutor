@@ -57,43 +57,21 @@ Smart Med Tutor uses intelligent question understanding combined with a medical 
 
 ---
 
-## 🖼️ Sample Questions
+## 🖼️ Screenshots
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 16px;">
+### 🏠 Home & Interface
+![Home](assets/home.png)
 
-  <div style="border:1px solid #ccc; padding:10px; border-radius:10px; width:250px;">
-    <img src="assets/home.png" alt="Home" style="width:100%; border-radius:5px;">
-  </div>
+### 📋 Question Samples
+![Sample 1](assets/sample1.png)
+![Sample 1.1](assets/sample1.1.png)
+![Sample Question](assets/samplequestion.png)
 
-  <div style="border:1px solid #ccc; padding:10px; border-radius:10px; width:250px;">
-    <img src="assets/sample1.png" alt="Sample 1" style="width:100%; border-radius:5px;">
-  </div>
-
-  <div style="border:1px solid #ccc; padding:10px; border-radius:10px; width:250px;">
-    <img src="assets/sample1.1.png" alt="Sample 1.1" style="width:100%; border-radius:5px;">
-  </div>
-
-  <div style="border:1px solid #ccc; padding:10px; border-radius:10px; width:250px;">
-    <img src="assets/samplequestion.png" alt="Sample Question" style="width:100%; border-radius:5px;">
-  </div>
-
-  <div style="border:1px solid #ccc; padding:10px; border-radius:10px; width:250px;">
-    <img src="assets/clinicalbasequestion.png" alt="Clinical 1" style="width:100%; border-radius:5px;">
-  </div>
-
-  <div style="border:1px solid #ccc; padding:10px; border-radius:10px; width:250px;">
-    <img src="assets/clinicalbasedquestion1.png" alt="Clinical 2" style="width:100%; border-radius:5px;">
-  </div>
-
-  <div style="border:1px solid #ccc; padding:10px; border-radius:10px; width:250px;">
-    <img src="assets/scenariobasedquestion.png" alt="Scenario 1" style="width:100%; border-radius:5px;">
-  </div>
-
-  <div style="border:1px solid #ccc; padding:10px; border-radius:10px; width:250px;">
-    <img src="assets/scenariobasedquestion1.png" alt="Scenario 2" style="width:100%; border-radius:5px;">
-  </div>
-
-</div>
+### 🧠 Clinical & Scenario-Based
+![Clinical Q1](assets/clinicalbasequestion.png)
+![Clinical Q2](assets/clinicalbasedquestion1.png)
+![Scenario Q1](assets/scenariobasedquestion.png)
+![Scenario Q2](assets/scenariobasedquestion1.png)
 
 ---
 
