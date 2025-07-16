@@ -57,21 +57,18 @@ Smart Med Tutor uses intelligent question understanding combined with a medical 
 
 ---
 
-## 🖼️ Screenshots
+## 🖼️ Sample Questions
 
-### 🏠 Home & Interface
-![Home](assets/home.png)
-
-### 📋 Question Samples
-![Sample 1](assets/sample1.png)
-![Sample 1.1](assets/sample1.1.png)
-![Sample Question](assets/samplequestion.png)
-
-### 🧠 Clinical & Scenario-Based
-![Clinical Q1](assets/clinicalbasequestion.png)
-![Clinical Q2](assets/clinicalbasedquestion1.png)
-![Scenario Q1](assets/scenariobasedquestion.png)
-![Scenario Q2](assets/scenariobasedquestion1.png)
+<p align="center">
+  <img src="assets/home.png" alt="Home" width="250" style="margin:10px"/>
+  <img src="assets/sample1.png" alt="Sample 1" width="250" style="margin:10px"/>
+  <img src="assets/sample1.1.png" alt="Sample 1.1" width="250" style="margin:10px"/>
+  <img src="assets/samplequestion.png" alt="Sample Question" width="250" style="margin:10px"/>
+  <img src="assets/clinicalbasequestion.png" alt="Clinical Question 1" width="250" style="margin:10px"/>
+  <img src="assets/clinicalbasedquestion1.png" alt="Clinical Question 2" width="250" style="margin:10px"/>
+  <img src="assets/scenariobasedquestion.png" alt="Scenario Question 1" width="250" style="margin:10px"/>
+  <img src="assets/scenariobasedquestion1.png" alt="Scenario Question 2" width="250" style="margin:10px"/>
+</p>
 
 ---
 
