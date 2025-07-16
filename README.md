@@ -59,16 +59,41 @@ Smart Med Tutor uses intelligent question understanding combined with a medical 
 
 ## 🖼️ Sample Questions
 
-<p align="center">
-  <img src="assets/home.png" alt="Home" width="250" style="margin:10px"/>
-  <img src="assets/sample1.png" alt="Sample 1" width="250" style="margin:10px"/>
-  <img src="assets/sample1.1.png" alt="Sample 1.1" width="250" style="margin:10px"/>
-  <img src="assets/samplequestion.png" alt="Sample Question" width="250" style="margin:10px"/>
-  <img src="assets/clinicalbasequestion.png" alt="Clinical Question 1" width="250" style="margin:10px"/>
-  <img src="assets/clinicalbasedquestion1.png" alt="Clinical Question 2" width="250" style="margin:10px"/>
-  <img src="assets/scenariobasedquestion.png" alt="Scenario Question 1" width="250" style="margin:10px"/>
-  <img src="assets/scenariobasedquestion1.png" alt="Scenario Question 2" width="250" style="margin:10px"/>
-</p>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 16px;">
+
+  <div style="border:1px solid #ccc; padding:10px; border-radius:10px; width:250px;">
+    <img src="assets/home.png" alt="Home" style="width:100%; border-radius:5px;">
+  </div>
+
+  <div style="border:1px solid #ccc; padding:10px; border-radius:10px; width:250px;">
+    <img src="assets/sample1.png" alt="Sample 1" style="width:100%; border-radius:5px;">
+  </div>
+
+  <div style="border:1px solid #ccc; padding:10px; border-radius:10px; width:250px;">
+    <img src="assets/sample1.1.png" alt="Sample 1.1" style="width:100%; border-radius:5px;">
+  </div>
+
+  <div style="border:1px solid #ccc; padding:10px; border-radius:10px; width:250px;">
+    <img src="assets/samplequestion.png" alt="Sample Question" style="width:100%; border-radius:5px;">
+  </div>
+
+  <div style="border:1px solid #ccc; padding:10px; border-radius:10px; width:250px;">
+    <img src="assets/clinicalbasequestion.png" alt="Clinical 1" style="width:100%; border-radius:5px;">
+  </div>
+
+  <div style="border:1px solid #ccc; padding:10px; border-radius:10px; width:250px;">
+    <img src="assets/clinicalbasedquestion1.png" alt="Clinical 2" style="width:100%; border-radius:5px;">
+  </div>
+
+  <div style="border:1px solid #ccc; padding:10px; border-radius:10px; width:250px;">
+    <img src="assets/scenariobasedquestion.png" alt="Scenario 1" style="width:100%; border-radius:5px;">
+  </div>
+
+  <div style="border:1px solid #ccc; padding:10px; border-radius:10px; width:250px;">
+    <img src="assets/scenariobasedquestion1.png" alt="Scenario 2" style="width:100%; border-radius:5px;">
+  </div>
+
+</div>
 
 ---
 
